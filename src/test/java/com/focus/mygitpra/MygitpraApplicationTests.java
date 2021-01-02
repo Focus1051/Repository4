@@ -10,4 +10,9 @@ class MygitpraApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void fun1(){
+        System.out.println("分支1");
+    }
+
 }
