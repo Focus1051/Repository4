@@ -9,5 +9,12 @@ class MygitpraApplicationTests {
     @Test
     void contextLoads() {
     }
+    
+    @Test
+    void say() {
+         System.out.println("hahaa");
+    }
+    
+    
 
 }
