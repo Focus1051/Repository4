@@ -11,9 +11,11 @@ class MygitpraApplicationTests {
         System.out.println("1234");
     }
     
+
+
     @Test
-    void say() {
-         System.out.println("hahaa");
+    void say2() {
+        System.out.println("hahattta");
     }
     
     
