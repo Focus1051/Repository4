@@ -13,6 +13,7 @@ class MygitpraApplicationTests {
     @Test
     void fun1(){
         System.out.println("分支1");
+        System.out.println("分支2");
     }
 
 }
